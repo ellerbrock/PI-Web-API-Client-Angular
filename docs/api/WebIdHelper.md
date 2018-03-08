@@ -2,11 +2,11 @@
 
 Method | Description
 ------------ | -------------
-[**getWebIdInfo**](WebApiHelper.md#getwebidinfo) | Get WebID information.
-[**generateWebIdByPath**](WebApiHelper.md#generatewebidbypath) | Generate a WebID on the client using the Path.
+[**getWebIdInfo**](WebIdHelper.md#getwebidinfo) | Get WebID information.
+[**generateWebIdByPath**](WebIdHelper.md#generatewebidbypath) | Generate a WebID on the client using the Path.
 
 
-# **getwebidinfo**
+# **getWebIdInfo**
 > getWebIdInfo(webId: string) : string
 
 Get Web ID information.
@@ -23,7 +23,7 @@ Name | Type | Description | Notes
 
 [[Back to top]](#) [[Back to API list]](../../DOCUMENTATION.md#documentation-for-api-endpoints) [[Back to Model list]](../../DOCUMENTATION.md#documentation-for-models) [[Back to DOCUMENTATION]](../../DOCUMENTATION.md)
 
-# **generatewebIdbypath**
+# **generateWebIdByPath**
 > generateWebIdByPath(path: string, type: string, ownerType: string = null) : string
 
 Generate a WebID using the object's path.
