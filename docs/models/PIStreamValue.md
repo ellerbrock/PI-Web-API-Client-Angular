@@ -3,11 +3,11 @@
 ## Properties
 Name | Type | Notes
 ------------ | ------------- | -------------
-**web_id** | **string**
-**name** | **string**
-**path** | **string**
-**value** | **[**PITimedValue**](../models/PITimedValue.md)**
-**links** | **[**PIStreamValueLinks**](../models/PIStreamValueLinks.md)**
-**web_exception** | **[**PIWebException**](../models/PIWebException.md)**
+**WebId** | **string**
+**Name** | **string**
+**Path** | **string**
+**Value** | **[**PITimedValue**](../models/PITimedValue.md)**
+**Links** | **[**PIStreamValueLinks**](../models/PIStreamValueLinks.md)**
+**WebException** | **[**PIWebException**](../models/PIWebException.md)**
 
 [[Back to Model list]](../../DOCUMENTATION.md#documentation-for-models) [[Back to API list]](../../DOCUMENTATION.md#documentation-for-api-endpoints) [[Back to DOCUMENTATION]](../../DOCUMENTATION.md)

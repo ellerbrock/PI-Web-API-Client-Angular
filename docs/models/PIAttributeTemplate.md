@@ -3,25 +3,25 @@
 ## Properties
 Name | Type | Notes
 ------------ | ------------- | -------------
-**web_id** | **string**
-**id** | **string**
-**name** | **string**
-**description** | **string**
-**path** | **string**
-**type** | **string**
-**type_qualifier** | **string**
-**default_units_name** | **string**
-**default_value** | **any**
-**data_reference_plug_in** | **string**
-**config_string** | **string**
-**is_configuration_item** | **boolean**
-**is_excluded** | **boolean**
-**is_hidden** | **boolean**
-**is_manual_data_entry** | **boolean**
-**has_children** | **boolean**
-**category_names** | **Array<string>**
-**trait_name** | **string**
-**links** | **[**PIAttributeTemplateLinks**](../models/PIAttributeTemplateLinks.md)**
-**web_exception** | **[**PIWebException**](../models/PIWebException.md)**
+**WebId** | **string**
+**Id** | **string**
+**Name** | **string**
+**Description** | **string**
+**Path** | **string**
+**Type** | **string**
+**TypeQualifier** | **string**
+**DefaultUnitsName** | **string**
+**DefaultValue** | **any**
+**DataReferencePlugIn** | **string**
+**ConfigString** | **string**
+**IsConfigurationItem** | **boolean**
+**IsExcluded** | **boolean**
+**IsHidden** | **boolean**
+**IsManualDataEntry** | **boolean**
+**HasChildren** | **boolean**
+**CategoryNames** | **Array<string>**
+**TraitName** | **string**
+**Links** | **[**PIAttributeTemplateLinks**](../models/PIAttributeTemplateLinks.md)**
+**WebException** | **[**PIWebException**](../models/PIWebException.md)**
 
 [[Back to Model list]](../../DOCUMENTATION.md#documentation-for-models) [[Back to API list]](../../DOCUMENTATION.md#documentation-for-api-endpoints) [[Back to DOCUMENTATION]](../../DOCUMENTATION.md)

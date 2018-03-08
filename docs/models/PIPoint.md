@@ -3,18 +3,18 @@
 ## Properties
 Name | Type | Notes
 ------------ | ------------- | -------------
-**web_id** | **string**
-**id** | **number**
-**name** | **string**
-**path** | **string**
-**descriptor** | **string**
-**point_class** | **string**
-**point_type** | **string**
-**digital_set_name** | **string**
-**engineering_units** | **string**
-**step** | **boolean**
-**future** | **boolean**
-**links** | **[**PIPointLinks**](../models/PIPointLinks.md)**
-**web_exception** | **[**PIWebException**](../models/PIWebException.md)**
+**WebId** | **string**
+**Id** | **number**
+**Name** | **string**
+**Path** | **string**
+**Descriptor** | **string**
+**PointClass** | **string**
+**PointType** | **string**
+**DigitalSetName** | **string**
+**EngineeringUnits** | **string**
+**Step** | **boolean**
+**Future** | **boolean**
+**Links** | **[**PIPointLinks**](../models/PIPointLinks.md)**
+**WebException** | **[**PIWebException**](../models/PIWebException.md)**
 
 [[Back to Model list]](../../DOCUMENTATION.md#documentation-for-models) [[Back to API list]](../../DOCUMENTATION.md#documentation-for-api-endpoints) [[Back to DOCUMENTATION]](../../DOCUMENTATION.md)

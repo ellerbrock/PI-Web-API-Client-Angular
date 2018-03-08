@@ -3,24 +3,24 @@
 ## Properties
 Name | Type | Notes
 ------------ | ------------- | -------------
-**self** | **string**
-**attributes** | **string**
-**event_frames** | **string**
-**database** | **string**
-**referenced_elements** | **string**
-**primary_referenced_element** | **string**
-**parent** | **string**
-**template** | **string**
-**default_attribute** | **string**
-**categories** | **string**
-**annotations** | **string**
-**interpolated_data** | **string**
-**recorded_data** | **string**
-**plot_data** | **string**
-**summary_data** | **string**
-**value** | **string**
-**end_value** | **string**
-**security** | **string**
-**security_entries** | **string**
+**Self** | **string**
+**Attributes** | **string**
+**EventFrames** | **string**
+**Database** | **string**
+**ReferencedElements** | **string**
+**PrimaryReferencedElement** | **string**
+**Parent** | **string**
+**Template** | **string**
+**DefaultAttribute** | **string**
+**Categories** | **string**
+**Annotations** | **string**
+**InterpolatedData** | **string**
+**RecordedData** | **string**
+**PlotData** | **string**
+**SummaryData** | **string**
+**Value** | **string**
+**EndValue** | **string**
+**Security** | **string**
+**SecurityEntries** | **string**
 
 [[Back to Model list]](../../DOCUMENTATION.md#documentation-for-models) [[Back to API list]](../../DOCUMENTATION.md#documentation-for-api-endpoints) [[Back to DOCUMENTATION]](../../DOCUMENTATION.md)

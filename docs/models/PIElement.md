@@ -3,16 +3,16 @@
 ## Properties
 Name | Type | Notes
 ------------ | ------------- | -------------
-**web_id** | **string**
-**id** | **string**
-**name** | **string**
-**description** | **string**
-**path** | **string**
-**template_name** | **string**
-**has_children** | **boolean**
-**category_names** | **Array<string>**
-**extended_properties** | **{ [key: string]: PIValue; }**
-**links** | **[**PIElementLinks**](../models/PIElementLinks.md)**
-**web_exception** | **[**PIWebException**](../models/PIWebException.md)**
+**WebId** | **string**
+**Id** | **string**
+**Name** | **string**
+**Description** | **string**
+**Path** | **string**
+**TemplateName** | **string**
+**HasChildren** | **boolean**
+**CategoryNames** | **Array<string>**
+**ExtendedProperties** | **{ [key: string]: PIValue; }**
+**Links** | **[**PIElementLinks**](../models/PIElementLinks.md)**
+**WebException** | **[**PIWebException**](../models/PIWebException.md)**
 
 [[Back to Model list]](../../DOCUMENTATION.md#documentation-for-models) [[Back to API list]](../../DOCUMENTATION.md#documentation-for-api-endpoints) [[Back to DOCUMENTATION]](../../DOCUMENTATION.md)

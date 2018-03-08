@@ -50,6 +50,7 @@ import { TimeRuleApi } from './api/TimeRuleApi'
 import { TimeRulePlugInApi } from './api/TimeRulePlugInApi'
 import { UnitApi } from './api/UnitApi'
 import { UnitClassApi } from './api/UnitClassApi'
+import { WebIdHelper } from './webid/WebIdHelper'
 
 @Injectable()
 export class PIWebAPIService {
@@ -89,6 +90,7 @@ export class PIWebAPIService {
     public timeRulePlugIn: TimeRulePlugInApi
     public unit: UnitApi
     public unitClass: UnitClassApi
+    public webIdHelper: WebIdHelper
     private basePath: string;
     private useKerberos: boolean;
     private username: string;
@@ -145,5 +147,6 @@ export class PIWebAPIService {
         this.timeRulePlugIn = new TimeRulePlugInApi(this.http, this.basePath, this.defaultHeaders);
         this.unit = new UnitApi(this.http, this.basePath, this.defaultHeaders);
         this.unitClass = new UnitClassApi(this.http, this.basePath, this.defaultHeaders);
+        this.webIdHelper = new WebIdHelper();
     }
 }

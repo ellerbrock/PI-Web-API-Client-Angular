@@ -3,28 +3,28 @@
 ## Properties
 Name | Type | Notes
 ------------ | ------------- | -------------
-**web_id** | **string**
-**id** | **string**
-**name** | **string**
-**description** | **string**
-**path** | **string**
-**template_name** | **string**
-**has_children** | **boolean**
-**category_names** | **Array<string>**
-**extended_properties** | **{ [key: string]: PIValue; }**
-**start_time** | **string**
-**end_time** | **string**
-**severity** | **string**
-**acknowledged_by** | **string**
-**acknowledged_date** | **string**
-**can_be_acknowledged** | **boolean**
-**is_acknowledged** | **boolean**
-**is_annotated** | **boolean**
-**is_locked** | **boolean**
-**are_values_captured** | **boolean**
-**ref_element_web_ids** | **Array<string>**
-**security** | **[**PISecurity**](../models/PISecurity.md)**
-**links** | **[**PIEventFrameLinks**](../models/PIEventFrameLinks.md)**
-**web_exception** | **[**PIWebException**](../models/PIWebException.md)**
+**WebId** | **string**
+**Id** | **string**
+**Name** | **string**
+**Description** | **string**
+**Path** | **string**
+**TemplateName** | **string**
+**HasChildren** | **boolean**
+**CategoryNames** | **Array<string>**
+**ExtendedProperties** | **{ [key: string]: PIValue; }**
+**StartTime** | **string**
+**EndTime** | **string**
+**Severity** | **string**
+**AcknowledgedBy** | **string**
+**AcknowledgedDate** | **string**
+**CanBeAcknowledged** | **boolean**
+**IsAcknowledged** | **boolean**
+**IsAnnotated** | **boolean**
+**IsLocked** | **boolean**
+**AreValuesCaptured** | **boolean**
+**RefElementWebIds** | **Array<string>**
+**Security** | **[**PISecurity**](../models/PISecurity.md)**
+**Links** | **[**PIEventFrameLinks**](../models/PIEventFrameLinks.md)**
+**WebException** | **[**PIWebException**](../models/PIWebException.md)**
 
 [[Back to Model list]](../../DOCUMENTATION.md#documentation-for-models) [[Back to API list]](../../DOCUMENTATION.md#documentation-for-api-endpoints) [[Back to DOCUMENTATION]](../../DOCUMENTATION.md)

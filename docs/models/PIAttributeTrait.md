@@ -3,16 +3,16 @@
 ## Properties
 Name | Type | Notes
 ------------ | ------------- | -------------
-**name** | **string**
-**abbreviation** | **string**
-**allow_child_attributes** | **boolean**
-**allow_duplicates** | **boolean**
-**is_allowed_on_root_attribute** | **boolean**
-**is_type_inherited** | **boolean**
-**is_u_o_m_inherited** | **boolean**
-**require_numeric** | **boolean**
-**require_string** | **boolean**
-**links** | **[**PIAttributeTraitLinks**](../models/PIAttributeTraitLinks.md)**
-**web_exception** | **[**PIWebException**](../models/PIWebException.md)**
+**Name** | **string**
+**Abbreviation** | **string**
+**AllowChildAttributes** | **boolean**
+**AllowDuplicates** | **boolean**
+**IsAllowedOnRootAttribute** | **boolean**
+**IsTypeInherited** | **boolean**
+**IsUOMInherited** | **boolean**
+**RequireNumeric** | **boolean**
+**RequireString** | **boolean**
+**Links** | **[**PIAttributeTraitLinks**](../models/PIAttributeTraitLinks.md)**
+**WebException** | **[**PIWebException**](../models/PIWebException.md)**
 
 [[Back to Model list]](../../DOCUMENTATION.md#documentation-for-models) [[Back to API list]](../../DOCUMENTATION.md#documentation-for-api-endpoints) [[Back to DOCUMENTATION]](../../DOCUMENTATION.md)
