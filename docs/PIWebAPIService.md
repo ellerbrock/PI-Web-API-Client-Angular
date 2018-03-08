@@ -53,6 +53,6 @@ Property | Controller
 **TimeRule** | [**TimeRuleApi**](/docs/api/TimeRuleApi.md)
 **UnitClass** | [**UnitClassApi**](/docs/api/UnitClassApi.md)
 **Unit** | [**UnitApi**](/docs/api/UnitApi.md)
-**WebIdHelper** | [**WebIdHelper**](/docs/api/WebIdHelper.md)
+**webIdHelper** | [**WebIdHelper**](/docs/api/WebIdHelper.md)
 
 [[Back to Model list]](../DOCUMENTATION.md#documentation-for-models) [[Back to API list]](../DOCUMENTATION.md#documentation-for-api-endpoints) [[Back to DOCUMENTATION]](../DOCUMENTATION.md)
